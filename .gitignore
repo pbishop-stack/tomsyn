@@ -1,0 +1,15 @@
+node_modules
+.vercel
+.env
+.env.*
+dist
+.output
+.tanstack
+*.log
+/tmp
+screenshots
+attachments
+artifacts
+data/consensus-quota.json
+data/fallback-cache.json
+data/workspace-ids.json
